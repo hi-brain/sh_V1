@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="..\..\idl\CMakeLists.txt" />
+    <CustomBuild Include="..\CMakeFiles\3f52cf316f0d2e3c6f948d7ed99c8c95\shmodel_typeSK.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="..\CMakeFiles\e209b74eebe971d26888381aabbc564a\shmodel_type_TGT.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CMakeFiles\shmodel_type_TGT" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FD7DE3ED-539C-4989-905B-AA458280A3A3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

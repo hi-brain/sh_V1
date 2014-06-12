@@ -1,0 +1,127 @@
+The system is: Windows - 6.1 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: CompilerIdC, 構成: Debug x64 ------
+1>  CMakeCCompilerId.c
+1>  CompilerIdC.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\2.8.12.2\CompilerIdC\.\CompilerIdC.exe
+1>  CMAKE_C_COMPILER=c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\cl.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj.user"
+
+The C compiler identification is MSVC, found in "C:/Users/urabe/OpenRTM/workspace/comp1.1v64b/shmodels/sh_V1/build1/CMakeFiles/2.8.12.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: CompilerIdCXX, 構成: Debug x64 ------
+1>  CMakeCXXCompilerId.cpp
+1>  CompilerIdCXX.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\2.8.12.2\CompilerIdCXX\.\CompilerIdCXX.exe
+1>  CMAKE_CXX_COMPILER=c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\cl.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj.user"
+
+The CXX compiler identification is MSVC, found in "C:/Users/urabe/OpenRTM/workspace/comp1.1v64b/shmodels/sh_V1/build1/CMakeFiles/2.8.12.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/urabe/OpenRTM/workspace/comp1.1v64b/shmodels/sh_V1/build1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2895426183
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec2895426183, 構成: Debug x64 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec2895426183.dir\Debug\\" /Fd"cmTryCompileExec2895426183.dir\Debug\vc100.pdb" /Gd /TC /errorReport:prompt testCCompiler.c
+1>  
+1>  testCCompiler.c
+1>  cmTryCompileExec2895426183.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2895426183.exe
+1>  cmTryCompileExec2895426183.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2895426183.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/urabe/OpenRTM/workspace/comp1.1v64b/shmodels/sh_V1/build1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec695393767
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec695393767, 構成: Debug x64 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTryCompileExec695393767.dir\Debug\\" /Fd"cmTryCompileExec695393767.dir\Debug\vc100.pdb" /Gd /TC /errorReport:prompt "..\..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCCompilerABI.c"
+1>  
+1>  CMakeCCompilerABI.c
+1>  cmTryCompileExec695393767.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec695393767.exe
+1>  cmTryCompileExec695393767.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec695393767.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/urabe/OpenRTM/workspace/comp1.1v64b/shmodels/sh_V1/build1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec2160358414
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec2160358414, 構成: Debug x64 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec2160358414.dir\Debug\\" /Fd"cmTryCompileExec2160358414.dir\Debug\vc100.pdb" /Gd /TP /errorReport:prompt testCXXCompiler.cxx
+1>  
+1>  testCXXCompiler.cxx
+1>  cmTryCompileExec2160358414.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2160358414.exe
+1>  cmTryCompileExec2160358414.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2160358414.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/urabe/OpenRTM/workspace/comp1.1v64b/shmodels/sh_V1/build1/CMakeFiles/CMakeTmp
+
+Run Build Command:C:\PROGRA~2\MICROS~2.0\Common7\IDE\devenv.com CMAKE_TRY_COMPILE.sln /build Debug /project cmTryCompileExec931064702
+
+Microsoft(R) Visual Studio Version 10.0.40219.1.
+Copyright (C) Microsoft Corp. All rights reserved.
+1>------ ビルド開始: プロジェクト: cmTryCompileExec931064702, 構成: Debug x64 ------
+1>  Microsoft (R) C/C++ Optimizing Compiler Version 16.00.40219.01 for x64
+1>  Copyright (C) Microsoft Corporation.  All rights reserved.
+1>  
+1>  cl /c /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTryCompileExec931064702.dir\Debug\\" /Fd"cmTryCompileExec931064702.dir\Debug\vc100.pdb" /Gd /TP /errorReport:prompt "..\..\..\..\..\..\..\..\..\..\Program Files (x86)\CMake 2.8\share\cmake-2.8\Modules\CMakeCXXCompilerABI.cpp"
+1>  
+1>  CMakeCXXCompilerABI.cpp
+1>  cmTryCompileExec931064702.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec931064702.exe
+1>  cmTryCompileExec931064702.vcxproj -> C:\Users\urabe\OpenRTM\workspace\comp1.1v64b\shmodels\sh_V1\build1\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec931064702.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
+
+
